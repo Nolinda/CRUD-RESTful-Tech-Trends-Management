@@ -43,4 +43,8 @@ DELETE Endpoint:
 3. CMPG 323 -IT Developments. (2023) * 17 Aug CMPG323 weekly virtual class Cloud, deploy API
 *. YouTube. Available at: https://youtu.be/murThM9ATJA?si=NJBcFpQ7jxnrOqet (Accessed: 3 August 2024).
 4. CMPG 323 -IT Developments. (2023) *Intro to APIs*. YouTube. Available at: https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is (Accessed: 5 August 2024).
+5. CMPG 323 project 2-Asp.NET CORE WEB API 23 August 223. Accessed(9 August 2024).
+6. OpenAI (2024) Ways to fix the errors in your existing code. Available at: (https://chatgpt.com/c/96b778e6-6845-438c-b59b-2a8b08fa6e07) (Accessed: 10 August 2024).
+7. OpenAI (2024) How to fix the error in the user login. Available at: (https://chatgpt.com/c/96b778e6-6845-438c-b59b-2a8b08fa6e07) (Accessed: 11 August 2024).
+8. OpenAI (2024) Ways to fix the errors in your existing code. Available at: (https://chatgpt.com/c/96b778e6-6845-438c-b59b-2a8b08fa6e07) (Accessed: 6 August 2024).
 
