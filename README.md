@@ -38,9 +38,9 @@ DELETE Endpoint:
 •	/api/telemetry/{id}: Deletes a specific tel
 
 ## Reference List
-CMPG 323 -IT Developments. (2023) *Intro to APIs*. YouTube. Available at: https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is (Accessed: 30 August 2024).
-CMPG 323 -IT Developments. (2023) *API controllers*. YouTube. Available at: https://youtu.be/kiSJGGy29fY?si=p4abUASnu51FYVR6 (Accessed: 30 August 2024).
-CMPG 323 -IT Developments. (2023) * 17 Aug CMPG323 weekly virtual class Cloud, deploy API
+1. CMPG 323 -IT Developments. (2023) *Intro to APIs*. YouTube. Available at: https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is (Accessed: 30 August 2024).
+2. CMPG 323 -IT Developments. (2023) *API controllers*. YouTube. Available at: https://youtu.be/kiSJGGy29fY?si=p4abUASnu51FYVR6 (Accessed: 30 August 2024).
+3. CMPG 323 -IT Developments. (2023) * 17 Aug CMPG323 weekly virtual class Cloud, deploy API
 *. YouTube. Available at: https://youtu.be/murThM9ATJA?si=NJBcFpQ7jxnrOqet (Accessed: 3 August 2024).
-CMPG 323 -IT Developments. (2023) *Intro to APIs*. YouTube. Available at: https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is (Accessed: 5 August 2024).
+4. CMPG 323 -IT Developments. (2023) *Intro to APIs*. YouTube. Available at: https://youtu.be/-kaBMzOPiP0?si=QtBxY6v_4erUb9Is (Accessed: 5 August 2024).
 
