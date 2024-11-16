@@ -1,4 +1,4 @@
-# CMPG323_34221700_Project2
+# CMPG323_Project2
 #  NWUTechTrends Management System
 ## Overview
 This project aims to develop a CRUD RESTful API that facilitates the management and analysis of telemetry data associated with automations created by NWU Tech Trends.
